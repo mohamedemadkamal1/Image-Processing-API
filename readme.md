@@ -32,7 +32,5 @@
 
 # Tybe script is used in the project and all codes are written in TS and compiled to JS after running the build script.
 
-# Debendencies and 
-
 
 
